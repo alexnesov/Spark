@@ -1,7 +1,8 @@
 # Spark
 
-<code>start-master.sh</code></br>
-<code>http://127.0.0.1:80880</code></br>
+In <code>/opt/spark/sbin</code></br>
+<code>./start-all.sh</code></br>
+<code>http://localhost:8080/</code></br>
 <code>start-slave.sh spark://hadoop-master:7077</code></br>
 Example of python script execution (executed while being located in ```spark/python folder```): </p>
 
